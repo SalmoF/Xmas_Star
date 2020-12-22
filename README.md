@@ -1,5 +1,5 @@
 # Xmas_Star
-A star shaped PCB with an integrated ATMEGA32U4, an high precision temperature sensor, ToF sensor aand LEDs
+A star shaped PCB with an integrated ATMEGA32U4, an high precision temperature sensor, ToF sensor and LEDs
 ![plot](https://github.com/SalmoF/Xmas_Star/blob/main/Christmas%20pcb.png)
 
 The device has two operation modes selectable by the on board DIP switch, the default mode the PCB act as a normal
